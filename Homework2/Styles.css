@@ -1,0 +1,12 @@
+h1 {
+  color: blue; font-size: 64px;
+  text-decoration: underline; text-transform: uppercase
+}
+
+.image {
+    max-width: 200px; height: auto;
+}
+
+#my_image   {
+    max-width: 600px;  height: auto;
+}
