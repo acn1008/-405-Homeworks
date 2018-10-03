@@ -1,0 +1,28 @@
+<a href="https://www.tasteofhome.com/recipes/chicken-and-red-potatoes/">Click here to check them out!</a>
+
+file:///C:/Users/Cam/Desktop/Github/acn1008.github.io/-405-Homeworks/Homework2/
+
+file:///C:/Users/Cam/Desktop/Github/acn1008.github.io/-405-Homeworks/Homework2/
+
+	<style>
+	table, th, td {
+    		border: 1px solid black;
+    		padding: 5px;
+	}
+	table {
+    		border-spacing: 15px;
+	}
+	</style>	
+
+	 
+
+<h1>Nutrition Information</h1>
+		
+		<table style="width:100%">
+ 		 <tr>
+    		  <th>Ingredient</th>
+    	          <th>Protein Per Serving</th>
+    		  <th>Fat Per Serving</th>
+    		  <th>Carbohydrate Per Serving</th> 
+    		  <th>Total Calories Per Serving</th>
+  		 </tr>

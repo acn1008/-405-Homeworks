@@ -1,0 +1,25 @@
+h1 {
+  color: blue; font-size: 64px;
+  text-decoration: underline; text-transform: uppercase
+}
+
+h2 {
+  color: green; font-size: 64px;
+  text-decoration: underline; text-transform: uppercase
+}
+
+.rawchicken {
+   max-width: 200px; height: auto;
+}
+
+#my_image   {
+    max-width: 600px;  height: auto;
+}
+
+table#t01  {
+    	border-spacing: 1px solid black; width: 100%
+    	padding: 5px;
+}
+table#02   {
+    		border-spacing: 15px; width: 50%
+	}

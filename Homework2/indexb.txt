@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<title> Chicken and Red Potatoes Recipe  </title>
+
+		<link rel=stylesheet" href="styles.css">
+	<style>
+	table, th, td {
+    		border: 1px solid black;
+    		padding: 5px;
+	}
+	table {
+    		border-spacing: 15px;
+	}
+	</style>	
+	
+	</head>
+
+	<body>
+		<img src="chicken.JPG" ALT="SOME CHICKEN" style="width:600px;height:600px;">
+		<h1> Chicken and Red Potatoes Fantastic Recipe </h1>
+		<p> Moist and tender chicken and potato dish with gravy! Just fix it in the morning and forget about it until dinner! </p>
+		<p>I pulled this off the internet but it looked good to me!</p>
+		
+		<h2>Ingredients</h2>
+
+		<a href="details.html">Click here to check them out!</a>
+	        
+		<h2>Directions</h2>
+
+		<ol>
+		 <li>Place flour in a large reusable plastic bag.</li>
+		   <ul>
+		     <li>Add chicken, one piece at a time; shake to coat.</li>
+		     <li>In a large skillet, brown chicken in oil on both sides.</li>
+		   </ul>			
+		 <li>Meanwhile, place the potatoes, carrots, mushrooms and chilies in a greased 5-qt. slow cooker.</li>
+		   <ul>
+		     <li>In a small bowl, combine the remaining ingredients.</li>
+		     <li>Pour half of soup mixture over vegetables.</li>
+		   </ul>					
+		 <li>Transfer chicken to slow cooker; top with remaining soup mixture.</li>
+		    <ul>
+			<li>Cover and cook on low for 3-1/2 to 4 hours or until a thermometer reads 170°</li>
+		    </ul>		
+		</ol> 
+ 		
+		<h1>Nutrition Information</h1>
+		
+	      <table id="t01">
+ 		 <tr>
+    		  <th>Ingredient</th>
+    	          <th>Protein Per Serving</th>
+    		  <th>Fat Per Serving</th>
+    		  <th>Carbohydrate Per Serving</th> 
+    		  <th>Total Calories Per Serving</th>
+  		 </tr>
+  		 <tr>
+   		   <td>Chicken Breast</td>
+    		   <td>40 Grams</td>
+    	           <td>15 Grams</td>
+    		   <td>38 Grams</td>
+    		   <td>451 Calories</td>
+  		 </tr>
+  		 <tr>
+    			<td>Carrots</td>
+    			<td>10 Grams</td>
+    			<td>5 Grams</td>
+    			<td>8 Grams</td>
+    			<td>51 Calories</td>
+  		</tr>
+  		<tr>
+    			<td>Potatoes</td>
+    			<td>8 Grams</td>
+    			<td>20 Grams</td>
+    			<td>88 Grams</td>
+    			<td>480 Calories</td>
+  		</tr>
+	      </table>
+	
+	         	
+	</body>
+
+	
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<head>
+ <title>Lab1 Practice</title>
+</head>
+
+<h1>Good Practices When Writing HTML</h1>
+
+<<ol>
+ <li>Use Side By Side Windows</li>
+ <li>Never write more than 5 lines without testing</li>
+   <ul> 
+     <li>When learning, its a good idea to never write more than one element without testing</li>	
+   </ul>
+ <li>When writing an element, always write the opening tag, then the closing tag, then the content in between</li>
+   <ul> 
+ <li>Use indentation to structure your code and make it more human-readable</li>
+   </ul> 
+    <li>If you are nesting something with an element, follow this process:</li>
+   </ul>
+ <li>Write the opening tag</li>
+ 
+ <li>Learn how your editor Syntax highlighting works</li>  
+ <li>Use an HTML validator:</li>  
+</ol>
+
+
+<ul>
+ <li>Item 1</li>
+    <ul>
+      <li>Sub Item 1</li>
+        <ul>
+          <li>Sub Sub Item 1</li>
+          <li>Sub Sub Item 2</li>
+        </ul>
+       </li>
+      <li>Sub Item 2</li>
+     <ul>
+      <li>Sub Sub Item 1</li>
+      <li>Sub Sub Item 2</li>
+   </ul>
+  </li>
+ </ul>
+</li>
+<li>Item 2</li>
+ <ul>
+  <li>Sub Item 1</li>
+  <li>Sub Item 2</li>
+ </ul>
+</li>
+</ul>
+

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+
+<html>
+
+	<head>
+		<title> Chicken and Red Potatoes Recipe  </title>
+	</head>
+
+	<body>
+		<img src="chicken.JPG" ALT="SOME CHICKEN" style="width:600px;height:600px;">
+		<h1> Chicken and Red Potatoes Fantastic Recipe </h1>
+		<p> Moist and tender chicken and potato dish with gravy! Just fix it in the morning and forget about it until dinner! </p>
+		<p>I pulled this off the internet but it looked good to me!</p>
+		
+		<h2>Ingredients</h2>
+
+		<a href="https://www.tasteofhome.com/recipes/chicken-and-red-potatoes/">Click here to check them out!</a>
+	        
+		<h2>Directions</h2>
+
+		<ol>
+		 <li>Place flour in a large reusable plastic bag.</li>
+		 <li>Meanwhile, place the potatoes</li>
+		 <li>Transfer chicken to slow cooker</li>
+		  
+ 
+	         
+	</body>
+
+	
+</html>

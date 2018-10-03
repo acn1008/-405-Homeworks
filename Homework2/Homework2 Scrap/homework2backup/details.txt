@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+
+<a href="index.html">Click here to go back to recipe!</a>
+
+	<head>
+	<style>
+	table, th, td {
+    		border: 1px solid black;
+    		padding: 5px;
+	}
+	table {
+    		border-spacing: 15px;
+	}
+	</style>	
+
+	</head>
+
+	<body>
+	
+	      <table style="width:50%">
+	        <tr>
+    		  <th>Name</th>
+    	          <th>Image</th>
+    		  <th>Cost</th>
+    		  <th>Link</th> 
+    		 </tr>
+  		 <tr>
+   		   <td>Chicken Breast</td>
+    		   <td><img src="rawchicken.JPG" ALT="SOME CHICKEN" style="width:300px;height:300px;"></td>
+    	           <td>$6 per lb</td>
+    		   <td><a href="http://www.marketbasket.com/prime-meats.aspx" target="_blank">Click here to buy!</a></td>
+    		 </tr>
+  		 <tr>
+    			<td>Carrots</td>
+    			<td><img src="carrots.JPG" ALT="SOME CHICKEN" style="width:300px;height:300px;"></td>
+    			<td>$3 per lb</td>
+    			<td><a href="http://www.marketbasket.com/fresh-produce.aspx" target="_blank">Click here to buy!</a></td>
+  		</tr>
+  		<tr>
+    			<td>Potatoes</td>
+    			<td><img src="potatoes.JPG" ALT="SOME CHICKEN" style="width:300px;height:300px;"></td>
+    			<td>$4 per lb</td>
+    			<td><a href="http://www.marketbasket.com" target="_blank">Click here to buy!</a><tr>
+          	</tr>
+		<tr>
+     			<th>Total Cost Per Serving     </th>
+     			<th>$6.50 Per Serving</th>
+   		</tr>  	
+	  </table>
+	
+	         	
+	</body>
+
+	
+</html>
+	
