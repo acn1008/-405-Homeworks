@@ -20,7 +20,7 @@ html {
 
 .container {
   width:800px;
-  height:100vh;
+  min-height:100vh;
   background-color:  grey;
   margin: 0 auto;
   display: flex;
@@ -81,8 +81,8 @@ html {
 
 .form {
   flex: 0 0 20px;
-  display:flex;
-  justify-content:center;
+  /* display:flex;
+  justify-content:center; */
   margin:auto;
 }
 
